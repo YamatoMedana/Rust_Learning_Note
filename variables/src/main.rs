@@ -1,3 +1,5 @@
+//变量和常量
+
 
 //Rust 常量的命名全部字母都使用大写,下划线分隔单词
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;

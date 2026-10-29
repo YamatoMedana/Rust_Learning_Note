@@ -1,6 +1,7 @@
 use std::{cmp::Ordering, io};
 use rand::RngExt;
 
+//猜数字游戏例子
 fn main() {
     println!("Guess the number!");
 
